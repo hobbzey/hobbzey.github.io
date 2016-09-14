@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: Hobbzey.com
+description: 'A Nitfy Little Tag-Line'
 url: 'http://hobbzey.com'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Hobbzey'
+  email: hobbzey@gmail.com
+  twitter_username: hobbzey
+  facebook_username: hobbzey
+  github_username:  hobbzey
+  linkedin_username:  hobbzey
 
 defaults:
   -
